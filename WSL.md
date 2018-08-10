@@ -2,6 +2,11 @@
 
 ## WSL Installation
 
+First - check the build on your version of Windows
+1. Go to `Settings > System > About`
+1. Scroll down  and check the OS Build. If you are 16215 or later, you're good to go. If not, check for updates and update your OS.
+
+
 ### Enable Developer mode.
 
 Click the Windows icon and navigate to `Settings -> Update and Security -> For developers` and make sure the `Developer Mode` radio button is selected.
